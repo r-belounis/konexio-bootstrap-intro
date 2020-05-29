@@ -1,0 +1,17 @@
+/*******************************************************/
+/** Cours 2 : bootstrap intro - CSS by Reza Belounis  **/
+/*******************************************************/
+
+/***************/
+/*** Height ***/
+/**************/
+
+.height { height: 40px; }
+
+/*******************/
+/*** backgrounds ***/
+/*******************/
+
+.bg-yellow{ background-color: yellow; }
+.bg-blue{ background-color: blue; }
+.bg-red{ background-color: red; }
